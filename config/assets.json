@@ -1,0 +1,19 @@
+{
+    "css" : {
+        "website" : {
+            "cache" : "cached.css",
+            "files" : [
+                "base.css",
+                "cake.css"
+            ]
+        }
+    },
+    "js" : {
+        "website" : {
+            "cache" : "cached.js",
+            "files" : [
+                "base.js"
+            ]
+        }
+    }
+}
